@@ -5,7 +5,15 @@ Plataforma educacional inteligente para preparação de exames nacionais portugu
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.4-blue?style=flat-square&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38B2AC?style=flat-square&logo=tailwind-css)
-![SQLite](https://img.shields.io/badge/SQLite-3-003B57?style=flat-square&logo=sqlite)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?style=flat-square&logo=postgresql)
+
+---
+
+## 🌐 Acesso Online (Recomendado)
+
+**A aplicação está preparada para deploy online 100% GRÁTIS no Vercel!**
+
+👉 **[Ver instruções de deploy](./DEPLOY.md)** - Passo a passo simples, sem necessidade de instalar nada no teu PC.
 
 ---
 
