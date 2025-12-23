@@ -1,0 +1,7 @@
+{
+  "buildCommand": "cd study-mate-app && npm install && npm run build",
+  "devCommand": "cd study-mate-app && npm run dev",
+  "installCommand": "cd study-mate-app && npm install",
+  "framework": "nextjs",
+  "outputDirectory": "study-mate-app/.next"
+}
